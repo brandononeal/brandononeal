@@ -18,4 +18,4 @@
 
 Email: baoneal95@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/brandonaoneal/
+LinkedIn: https://linkedin.com/in/brandonaoneal
