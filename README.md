@@ -1,3 +1,10 @@
+*Hey there! I'm Brandon.*
+
+I'm a software developer with a passion for learning and personal development. I love connecting with new people and working on interesting projects that make a positive impact in the world.
+
+Currently, I'm working on improving my React and design skills. In my free time, you can find me playing chess or out in nature.
+
+
 **Technologies:**
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
