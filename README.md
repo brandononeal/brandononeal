@@ -1,6 +1,6 @@
 *Hey there! I'm Brandon.*
 
-I'm a software developer with a passion for learning and personal development. I love connecting with new people and working on interesting projects that make a positive impact in the world.
+I have a passion for software development and helping people achieve their personal and professional goals. I recently graduated from BloomTech's nine-month immersive Full Stack Web Development program. During that time, I served as a peer mentor to other students and worked with the nonprofit organization Family Promise to develop their shelter management system and service tracker.
 
 **Technologies:**
 
